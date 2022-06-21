@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&reversal&true&color=gradient&customColorList=29&height=400&section=header&text=Hello%20World!&fontSize=100&desc=Limemun's%20Idea&descSize=30&descAlign=47&descAlignY=67&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&reversal&true&color=gradient&customColorList=28&height=400&section=header&text=Hello%20World!&fontSize=100&desc=Limemun's%20Idea&descSize=30&descAlign=47&descAlignY=67&animation=fadeIn)
