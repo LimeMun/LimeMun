@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&reversal&true&color=gradient&customColorList=30&height=400&section=header&text=Hello%20World!&fontSize=100&desc=Limemun's%20Idea&descSize=30&descAlign=47&descAlignY=67&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&reversal&true&color=gradient&customColorList=7&height=400&section=header&text=Seongjae%20Mun&fontSize=100&descSize=34&descAlign=78&descAlignY=67&desc=Idea%20World&animation=fadeIn)
