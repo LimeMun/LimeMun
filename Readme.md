@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&customColorList=30&height=250&section=header&text=Seongjae%20Mun's&fontSize=100&descSize=34&descAlign=82&descAlignY=77&desc=Idea%20World&animation=fadeIn)
-<h3 align="center">🧑‍💻Tech Experience🧑‍💻 <a href="https://solved.ac/eekdrnf9904"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eekdrnf9904" height="180"></a></h3>
+<!--<a href="https://solved.ac/eekdrnf9904"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eekdrnf9904" height="220"></a>-->
 <p align="center"> I've ever used at least once</p>
 
 
