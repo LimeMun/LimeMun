@@ -1,5 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&customColorList=30&height=250&section=header&text=Seongjae%20Mun's&fontSize=100&descSize=34&descAlign=82&descAlignY=77&desc=Idea%20World&animation=fadeIn)
 <!--<a href="https://solved.ac/eekdrnf9904"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eekdrnf9904" height="220"></a>-->
+<p align="center"> 
+  Hello, There! I'm Seongjae 
+  <br>
+  <br>
+  🎓B.S. Student in SKKU VLDB Lab.
+  <br>
+</p>
+<h3 align="center">🧑‍💻Now Interests🧑‍💻</h3>
+<p align="center">
+  Flash-based DBMS in <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
+</p>
 <h3 align="center">🧑‍💻Tech Experience🧑‍💻</h3>
 <p align="center"> I've ever used at least once</p>
 <p align="center">
