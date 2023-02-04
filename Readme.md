@@ -9,7 +9,7 @@
 </p>
 <h3 align="center">📚Now Interests📚</h3>
 <p align="center">
-  Flash-based DBMS in <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> with NVDIMM
+  Flash-based DBMS in <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 <h3 align="center">🧑‍💻Tech Experience🧑‍💻</h3>
 <p align="center"> I've ever used at least once</p>
