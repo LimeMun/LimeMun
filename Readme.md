@@ -4,7 +4,7 @@
   Hello, There! I'm Seongjae 
   <br>
   <br>
-  🎓B.S. Student in <a href="https://sites.google.com/site/skkuvldblab/"> SKKU VLDB Lab</a>. 
+  🎓M.S. Student in <a href="https://sites.google.com/site/skkuvldblab/"> SKKU VLDB Lab</a>. 
   <br>
 </p>
 <h3 align="center">📚Now Interests📚</h3>
