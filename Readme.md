@@ -10,7 +10,8 @@
 <h3 align="center">📚Now Interests📚</h3>
 <p align="center">
   Flash-based DBMS in <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  CXL (Compute Express Link) interface based storage(Samsung CMM-H)
+  <br>
+  CXL (Compute Express Link) interface
 </p>
 <h3 align="center">🧑‍💻Tech Experience🧑‍💻</h3>
 <p align="center"> I've ever used at least once</p>
